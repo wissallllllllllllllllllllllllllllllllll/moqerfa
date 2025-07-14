@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
+redis
+firebase-admin
+authlib
+openai
+celery
+faiss-cpu
+httpx
+alembic
+python-jose
+passlib[bcrypt]
